@@ -28,3 +28,14 @@ section {
         width: 100%;
     }
 }
+.list-images.cheese {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    flex-direction: column;
+    max-width: 860px;
+
+    img {
+        width: 100%;
+    }
+}
